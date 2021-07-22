@@ -1,3 +1,4 @@
 .sfdx
 tmp_convert
 *.zip
+*.tmp
